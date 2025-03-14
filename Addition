@@ -4,3 +4,6 @@ z=x+y
 print(z)
 
 
+output
+
+the output is  7
