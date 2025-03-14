@@ -1,0 +1,8 @@
+a=7
+b=9
+c=a*b
+print(" the output is ",c)
+
+
+output
+the output is  63
