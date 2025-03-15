@@ -1,0 +1,6 @@
+c=45
+F=(9/5*c)+32
+print(" the output is ",F)
+
+output
+the output is  113.0
